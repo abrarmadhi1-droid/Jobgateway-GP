@@ -15,7 +15,7 @@ Job Gateway is an advanced full-stack AI tool built with Django & Python designe
 ## Tech Stack
 - Backend: Python, Django Framework
 - Frontend: HTML5, CSS3, JavaScript (JS)
-- AI/ML: OpenAI API (v1 Assistants), Speech Recognition & Sentiment Analysis Models
+- AI/ML: OpenAI API , Speech Recognition & Sentiment Analysis Models
 
 ---
 *Note: This project was successfully completed as a graduation project with Class Honors (GPA 4.64/5.00)[span_6](start_span)[span_6](end_span). Due to OpenAI deprecating the v1 Assistants API, the live runtime endpoint is currently under maintenance for migration.*
